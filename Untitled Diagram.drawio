@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Page-1" id="8C_rVini76Gff_sFu6wv">
+    <mxGraphModel dx="1167" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-7" target="uzR3M7Jn88PTGXy6qsIw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-7" value="Missing Irsyad" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-8" target="uzR3M7Jn88PTGXy6qsIw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-8" target="uzR3M7Jn88PTGXy6qsIw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-8" value="Make myself busy" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-10" target="uzR3M7Jn88PTGXy6qsIw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-10" target="uzR3M7Jn88PTGXy6qsIw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-10" value="Reach a roadblock on whatever I&#39;m working on" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-12" target="uzR3M7Jn88PTGXy6qsIw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="uzR3M7Jn88PTGXy6qsIw-12" target="uzR3M7Jn88PTGXy6qsIw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-12" value="Wants to talk to Irsyad about problems regarding work" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="495" y="320" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-21" value="&quot;Distraction mode ON! Time to bury myself in work... but will it last?&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="90" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-25" value="&amp;nbsp;&quot;Uh oh... work just&amp;nbsp;&lt;div&gt;threw me a curveball.&lt;/div&gt;&lt;div&gt;Need help!&quot;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="90" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-26" value="&quot;Looks like I need my &#39;Irsyad Wisdom Hotline.&#39; Help me, I’m stuck!&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="305" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uzR3M7Jn88PTGXy6qsIw-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;And we’re back! Full circle: Missing you already… again!&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
